@@ -9,9 +9,11 @@ Project Description: A personal task tracker to mitigate task tracking and impro
 
 ## Development Issues/Complications and Solutions: 
 	- Adding goals to the list<br/>
-	- Progress bar (# instead of .)<br/>
+	- Progress bar 
+	  - # instead of .
 	- Circle altering shape as progress ensues<br/>
-	- Empty image disappearing and reappearing when task(s) is entered (task-list width from 100% to 300%)
+	- Empty image disappearing and reappearing when task(s) is entered 
+	  - (task-list width from 100% to 300%)
 
 ## 3 Major Takeaways:
 	1. Debugging is an essential skill that will save both time and resources.<br/>
